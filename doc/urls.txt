@@ -1,0 +1,17 @@
+Helpful URL's:
+
+https://www.ecma-international.org/publications-and-standards/standards/ecma-376/
+
+https://forum.softmaker.de/viewtopic.php?f=275&t=25741&p=126388#p123933
+
+https://faq.cprogramming.com/cgi-bin/smartfaq.cgi?answer=1048384537&id=1043284392
+
+https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/016_c_ein_ausgabe_funktionen_014.htm#mjff798e62f1469fc3901b349f005d6547
+
+https://studyflix.de/informatik/intro-c-fortgeschritten-ii-859
+
+http://hex-works.com/eng
+
+https://stackoverflow.com/questions/38786014/how-to-compile-executable-for-windows-with-gcc-with-linux-subsystem
+
+https://replit.com/@goehte80/Convert-Word-EmbeddedFont-For-Release#main.c
